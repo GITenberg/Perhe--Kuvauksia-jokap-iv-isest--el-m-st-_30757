@@ -1,0 +1,41 @@
+_repo: Perhe--Kuvauksia-jokap-iv-isest--el-m-st-_30757
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hahnsson, Theodolinda
+    aliases:
+    - Yrjo-Koskinen, Theodolinda Limon
+    - Hahnsson, Sofia Theodolinda
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '5391'
+    url: http://www.gutenberg.org/2009/agents/5391
+    wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bremer, Fredrika
+    aliases:
+    - Bremer, Frederika
+    - Bremer, Frederica
+    birthdate: 1801
+    deathdate: 1865
+    gutenberg_agent_id: '1775'
+    url: http://www.gutenberg.org/2009/agents/1775
+    wikipedia: http://en.wikipedia.org/wiki/Fredrika_Bremer
+description: ''
+gutenberg_issued: '2009-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30757'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sweden -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PT'
+title: 'Perhe: Kuvauksia jokapäiväisestä elämästä'
+url: http://www.gutenberg.org/ebooks/30757
